@@ -9,4 +9,5 @@ Também informe no final, a soma dos quadrados pares e a soma dos quadrados ímp
 Observação:
 
 4 + 16 + 36 + 64 + 100 + 144 + 196 + 256 + 324 + 400 = 1540
+
 1 + 9 + 25 + 49 + 81 + 121 + 169 + 225 + 289 + 361 = 1330
